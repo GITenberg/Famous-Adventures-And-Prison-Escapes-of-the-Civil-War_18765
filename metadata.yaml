@@ -9,12 +9,12 @@ creator:
     gutenberg_agent_id: '37985'
     url: http://www.gutenberg.org/2009/agents/37985
   - agent_name: Pittenger, William
-    birthdate: &id001 1840
-    deathdate: &id002 1904
+    birthdate: 1840
+    deathdate: 1904
     gutenberg_agent_id: '2464'
     url: http://www.gutenberg.org/2009/agents/2464
   - agent_name: Hines, Thomas Henry
-    birthdate: &id003 1838
+    birthdate: 1838
     deathdate: 1898
     gutenberg_agent_id: '37984'
     url: http://www.gutenberg.org/2009/agents/37984
@@ -24,35 +24,37 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37983
   - agent_name: Shelton, W. H. (William Henry)
     alias: Shelton, William Henry
-    birthdate: *id001
+    birthdate: 1840
     gutenberg_agent_id: '37986'
     url: http://www.gutenberg.org/2009/agents/37986
   - agent_name: Wood, John Taylor
     birthdate: 1830
-    deathdate: *id002
+    deathdate: 1904
     gutenberg_agent_id: '37987'
     url: http://www.gutenberg.org/2009/agents/37987
   - agent_name: Duke, Basil Wilson
-    birthdate: *id003
+    birthdate: 1838
     deathdate: 1916
     gutenberg_agent_id: '35080'
     url: http://www.gutenberg.org/2009/agents/35080
     wikipedia: http://en.wikipedia.org/wiki/Basil_W._Duke
   - agent_name: Richards, A. E. (Adolphus Edwards)
     alias: Richards, Adolphus Edwards
-    birthdate: &id004 1844
+    birthdate: 1844
     deathdate: 1920
     gutenberg_agent_id: '37982'
     url: http://www.gutenberg.org/2009/agents/37982
   editor:
     agent_name: Cable, George Washington
     alias: Cable, G. W. (George Washington)
-    birthdate: *id004
+    birthdate: 1844
     deathdate: 1925
     gutenberg_agent_id: '3163'
     url: http://www.gutenberg.org/2009/agents/3163
     wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18765#Famous-Adventures-And-Prison-Escapes-of-the-Civil-War
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2006-07-06'
 gutenberg_type: Text
