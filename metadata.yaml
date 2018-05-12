@@ -1,0 +1,80 @@
+_repo: Famous-Adventures-And-Prison-Escapes-of-the-Civil-War_18765
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Moran, Frank E.
+    gutenberg_agent_id: '37985'
+    url: http://www.gutenberg.org/2009/agents/37985
+  - agent_name: Pittenger, William
+    birthdate: &id001 1840
+    deathdate: &id002 1904
+    gutenberg_agent_id: '2464'
+    url: http://www.gutenberg.org/2009/agents/2464
+  - agent_name: Hines, Thomas Henry
+    birthdate: &id003 1838
+    deathdate: 1898
+    gutenberg_agent_id: '37984'
+    url: http://www.gutenberg.org/2009/agents/37984
+  - agent_name: Willcox, Orlando B.
+    alias: Willcox, O. B. (Orlando B.)
+    gutenberg_agent_id: '37983'
+    url: http://www.gutenberg.org/2009/agents/37983
+  - agent_name: Shelton, W. H. (William Henry)
+    alias: Shelton, William Henry
+    birthdate: *id001
+    gutenberg_agent_id: '37986'
+    url: http://www.gutenberg.org/2009/agents/37986
+  - agent_name: Wood, John Taylor
+    birthdate: 1830
+    deathdate: *id002
+    gutenberg_agent_id: '37987'
+    url: http://www.gutenberg.org/2009/agents/37987
+  - agent_name: Duke, Basil Wilson
+    birthdate: *id003
+    deathdate: 1916
+    gutenberg_agent_id: '35080'
+    url: http://www.gutenberg.org/2009/agents/35080
+    wikipedia: http://en.wikipedia.org/wiki/Basil_W._Duke
+  - agent_name: Richards, A. E. (Adolphus Edwards)
+    alias: Richards, Adolphus Edwards
+    birthdate: &id004 1844
+    deathdate: 1920
+    gutenberg_agent_id: '37982'
+    url: http://www.gutenberg.org/2009/agents/37982
+  editor:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: *id004
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2006-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Libby Prison'
+- !lcsh 'Morgan''s Ohio Raid, 1863'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Mosby, John Singleton, 1833-1916'
+- !lcsh 'Chattanooga Railroad Expedition, 1862'
+- !lcsh 'Breckinridge, John C. (John Cabell), 1821-1875'
+tableOfContents: 'War diary of a Union woman in the South, ed. by G.W. Cable -- The
+  locomotive chase in Georgia, by W. Pittenger -- Mosby''s "Partizan rangers," by
+  A. E. Richards -- A romance of Morgan''s rough-riders: The raid, by B.W. Duke. The
+  capture, by O.B. Willcox. The escape, by T.H. Hines -- Colonel Rose''s tunnel at
+  Libby prison, by F.E. Moran -- A hard road to travel out of Dixie, by W.H. Shelton
+  -- Escape of General Breckenridge, by J.T. Wood.'
+title: Famous Adventures And Prison Escapes of the Civil War
+url: http://www.gutenberg.org/ebooks/18765
